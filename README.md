@@ -47,7 +47,7 @@ I enjoy building data-driven solutions that help organizations make informed dec
 - Developed a **Python model** using features like income, credit utilization, and payment history  
 - Provided actionable insights for **risk mitigation strategies**  
 
-*(More projects in my [GitHub repositories](https://github.com/yourusername))*
+*(More projects in my [GitHub repositories](https://github.com/sumayamateen/Data-Analytics-Portfolio))*
 
 ---
 
@@ -56,7 +56,7 @@ I enjoy building data-driven solutions that help organizations make informed dec
 - **Email:** sumayamateen6@gmail.com  
 - **LinkedIn:** [linkedin.com/in/sumayamateen](https://www.linkedin.com/in/sumayamateen)  
 - **Portfolio:** [your-portfolio-link]  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** [github.com/yourusername](https://github.com/sumayamateen/Data-Analytics-Portfolio)
 
 ---
 
