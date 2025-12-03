@@ -55,8 +55,7 @@ I enjoy building data-driven solutions that help organizations make informed dec
 
 - **Email:** sumayamateen6@gmail.com  
 - **LinkedIn:** [linkedin.com/in/sumayamateen](https://www.linkedin.com/in/sumayamateen)  
-- **Portfolio:** [your-portfolio-link]  
-- **GitHub:** [github.com/yourusername](https://github.com/sumayamateen/Data-Analytics-Portfolio)
+- **GitHub Portfolio:** [github.com/yourusername](https://github.com/sumayamateen/Data-Analytics-Portfolio)
 
 ---
 
