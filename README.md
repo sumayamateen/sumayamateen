@@ -100,13 +100,11 @@ Identified a **+122.6M revenue opportunity** through sales and promotional perfo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumayamateen&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumayamateen&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumayamateen&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayamateen&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ## 📫 Let's Connect
 
