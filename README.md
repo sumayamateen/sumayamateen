@@ -87,3 +87,74 @@ Analyzed **$140K+ sales** with interactive Excel dashboard identifying top reven
 ## 💼 What I Bring to the Table
 
 ```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Sumaya Mateen"
+        self.role = "Data Analyst"
+        self.skills = {
+            "languages": ["Python", "SQL"],
+            "visualization": ["Power BI", "Tableau", "Looker Studio"],
+            "ml_frameworks": ["Scikit-Learn", "Pandas", "NumPy"],
+            "specialties": ["EDA", "Predictive Modeling", "Dashboard Design"]
+        }
+        self.impact = {
+            "churn_reduction": "31.8%",
+            "model_accuracy": "91%",
+            "revenue_identified": "+122.6M",
+            "reporting_efficiency": "90% faster"
+        }
+    
+    def current_focus(self):
+        return "Building portfolio with real-world business impact"
+```
+
+---
+
+## 📈 Experience Highlights
+
+**🎓 Excelerate Internship Program**
+- AI-Powered Data Insights Intern
+- Data Analyst Associate Intern
+- Worked with **8,558+ learners** across **52K+ global users**
+
+**📜 Certifications**
+- Meta Data Analyst Professional Certificate (with GenAI)
+- AnalytixCamp SQL for Data Analytics
+- Excelerate Mastering Excel Techniques
+
+---
+
+## 🎯 Currently
+
+🔭 Working on: **Credit Risk Prediction System** using real banking data (307K applications)  
+🌱 Learning: **Advanced ML Techniques** | **Cloud Deployment** | **Feature Engineering**  
+👯 Looking to collaborate on: **Data Analytics Projects** | **BI Dashboard Development**  
+💬 Ask me about: **Python**, **SQL**, **Power BI**, **Churn Prediction**, **Business Analytics**
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**I'm actively looking for Data Analyst opportunities!**
+
+[![Portfolio](https://img.shields.io/badge/📊_Full_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumayamateen6@gmail.com)
+
+**Response time:** Usually within 24 hours ⚡
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Data tells stories. I help businesses listen."
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumayamateen&color=blueviolet&style=flat-square&label=Profile+Views)
+
+⭐ **If you find my work interesting, please star my repositories!**
+
+</div>
