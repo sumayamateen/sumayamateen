@@ -127,3 +127,22 @@ Identified a **+122.6M revenue opportunity** through sales and promotional perfo
 ### 💡 “Data tells stories. I help businesses listen.”
 
 </div>
+
+
+
+
+**Response time:** Usually within 24 hours ⚡
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Data tells stories. I help businesses listen."
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumayamateen&color=blueviolet&style=flat-square&label=Profile+Views)
+
+⭐ **If you find my work interesting, please star my repositories!**
+
+</div>
