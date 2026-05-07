@@ -129,8 +129,6 @@ Identified a **+122.6M revenue opportunity** through sales and promotional perfo
 </div>
 
 
-
-
 **Response time:** Usually within 24 hours ⚡
 
 </div>
@@ -138,8 +136,6 @@ Identified a **+122.6M revenue opportunity** through sales and promotional perfo
 ---
 
 <div align="center">
-
-### 💡 "Data tells stories. I help businesses listen."
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sumayamateen&color=blueviolet&style=flat-square&label=Profile+Views)
 
