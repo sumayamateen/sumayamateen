@@ -1,62 +1,89 @@
-# Hi there 👋, I'm Sumaya Mateen
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+# 👋 Hi, I'm Sumaya Mateen
 
----
+### Data Analyst | Transforming Data into Strategic Insights
 
-## 👩‍💻 About Me
-I am a Data Analyst passionate about turning raw data into meaningful insights.  
-I specialize in **SQL, Python, Power BI, Tableau, and Excel**, and have hands-on experience in **data cleaning, ETL pipelines, exploratory data analysis (EDA), and dashboard creation**.  
+[![Portfolio](https://img.shields.io/badge/📊_View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumayamateen6@gmail.com)
 
-I enjoy building data-driven solutions that help organizations make informed decisions.  
-
-- 📚 Background: Applied Mathematics  
-- 🌍 Industries: EdTech, Sales, Marketing Analytics  
-- 🔍 Focus: Data visualization, performance analytics, reporting  
+</div>
 
 ---
 
-## 💻 Skills
+## 🚀 About Me
 
-**Programming & Tools:** Python, SQL, Power BI, Tableau, Excel, Git/GitHub  
-**Data Analysis:** Data Cleaning, ETL, EDA, Statistical Analysis  
-**Visualization & Reporting:** Interactive dashboards, KPI reports, Storytelling with data  
-**Soft Skills:** Problem-solving, attention to detail, communication, collaboration  
+🔍 Specializing in **Python, SQL, Power BI, and Machine Learning**  
+💼 Open to: **Data Analyst | Business Intelligence Analyst | SQL Analyst** roles  
+📍 Based in **Pakistan**  
+🎓 Completed: **Meta Data Analyst Certificate** | **AnalytixCamp SQL** | **Excelerate Internships**
 
----
-
-## 📂 Projects
-
-### 1. **Global Experiential Learning Summit Dashboard**
-- Built an **interactive Power BI dashboard** for event performance metrics  
-- Included KPIs like YTD revenue, SPLY, target achievement %, MoM change  
-
-### 2. **Marketing Campaign Analysis**
-- Performed **SQL-based ETL** on raw campaign data  
-- Created master tables and dashboards to track campaign ROI and engagement  
-
-### 3. **Sales Data Analysis**
-- Cleaned and analyzed **sales dataset** with missing and inconsistent values  
-- Developed **visualizations in Power BI & Tableau** to highlight insights  
-
-### 4. **Customer Delinquency Prediction**
-- Developed a **Python model** using features like income, credit utilization, and payment history  
-- Provided actionable insights for **risk mitigation strategies**  
-
-*(More projects in my [GitHub repositories](https://github.com/sumayamateen/Data-Analytics-Portfolio))*
+> *"I turn complex data into actionable insights that drive business decisions."*
 
 ---
 
-## 📫 Contact Me
+## 🌟 Featured Projects
 
-- **Email:** sumayamateen6@gmail.com  
-- **LinkedIn:** [linkedin.com/in/sumayamateen](https://www.linkedin.com/in/sumayamateen)  
-- **GitHub Portfolio:** [github.com/yourusername](https://github.com/sumayamateen/Data-Analytics-Portfolio)
+### 🏆 [Student Churn Prediction](https://github.com/sumayamateen/Analytics-Portfolio)
+**91% accuracy** model reducing churn risk by **31.8%** across **8,558 learners**  
+`Python` `Scikit-Learn` `Gradient Boosting` `EDA`
+
+### 📊 [Engagement Analytics Dashboard](https://github.com/sumayamateen/Analytics-Portfolio)
+Unified **5 datasets** serving **52K+ learners** in **146 countries**, reducing manual reporting by **90%**  
+`SQL` `PostgreSQL` `Looker Studio` `ETL`
+
+### 💰 [365 Super Mart Promotion Analysis](https://github.com/sumayamateen/Analytics-Portfolio)
+Identified **+122.6M revenue** opportunity through promotional effectiveness analysis  
+`SQL` `Power BI` `Business Analytics`
+
+### 🛍️ [Store Sales Analysis](https://github.com/sumayamateen/Analytics-Portfolio)
+Analyzed **$140K+ sales** with interactive Excel dashboard identifying top revenue streams  
+`Excel` `Pivot Tables` `Dashboard Design`
+
+**[→ View All 8 Projects in My Portfolio](https://github.com/sumayamateen/Analytics-Portfolio)**
 
 ---
 
-✨ “Turning data into decisions, one insight at a time.”
+## 🛠️ Technical Skills
+
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+
+### Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
+
+### Other
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sumaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumayamateen&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumayamateen&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 💼 What I Bring to the Table
+
+```python
