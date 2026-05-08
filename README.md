@@ -120,13 +120,17 @@ Analyzed sales performance and marketing campaigns.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-Actively looking for **Data Analyst / BI Analyst opportunities**.
+<div align="center">
 
-📊 Portfolio: https://github.com/sumayamateen/Analytics-Portfolio  
-🔗 LinkedIn: https://www.linkedin.com/in/sumaya-mateen  
-📧 Email: mailto:sumayamateen6@gmail.com  
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumayamateen6@gmail.com)
+
+</div>
 
 ---
 
