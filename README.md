@@ -31,33 +31,33 @@
 - Predicts loan default risk for financial decision-making  
 - End-to-end pipeline: EDA → Feature Engineering → Modeling  
 
-**Tech:** Python • Scikit-learn • XGBoost
+**Tech:** Python • Scikit-learn • XGBoost  
 
 ---
 
 ### 📉 Student Churn Prediction
 - Achieved **91% accuracy**
 - Reduced churn risk by **31.8% (8,558 learners)**  
-- Identified key engagement patterns
+- Identified key engagement patterns  
 
-**Tech:** Python • Pandas • Gradient Boosting
+**Tech:** Python • Pandas • Gradient Boosting  
 
 ---
 
 ### 📊 Engagement Analytics Dashboard
 - Unified **5 datasets (52K+ users, 146 countries)**
 - Reduced reporting time by **90%**
-- Automated KPI tracking system
+- Automated KPI tracking system  
 
-**Tech:** SQL • PostgreSQL • Looker Studio
+**Tech:** SQL • PostgreSQL • Looker Studio  
 
 ---
 
 ### 💰 Promotion Effectiveness Analysis
 - Identified **+122.6M revenue opportunity**
-- Analyzed campaign performance & customer behavior
+- Analyzed campaign performance & customer behavior  
 
-**Tech:** SQL • Power BI • Business Analytics
+**Tech:** SQL • Power BI • Business Analytics  
 
 ---
 
@@ -76,7 +76,7 @@
 - 📉 90% faster reporting via dashboards  
 - 🤖 91% ML model accuracy achieved  
 - 🌍 146 countries dataset analysis  
-- 💰 +122.6M revenue insights identified  
+- 💰 +122.6B revenue insights identified *(optional correction: check if M or B)*  
 - 📊 307K+ records processed  
 
 ---
@@ -109,4 +109,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumayamateen6@gmail.com)
+
+</div>
