@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Sumaya Mateen
 
-### Data Analyst | SQL, Power BI & Predictive Analytics
+### 📊 Data Analyst | SQL • Power BI • Python • Predictive Analytics
 
-📊 Transforming raw data into actionable business insights through analytics, dashboards, and machine learning.
+🚀 Turning raw data into business insights, dashboards, and predictive models.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
@@ -16,10 +16,10 @@
 
 ## 🚀 About Me
 
-- 🔍 Specializing in **Python, SQL, Power BI, and Machine Learning**
-- 💼 Open to **Data Analyst, BI Analyst, and SQL Analyst** opportunities
-- 📈 Passionate about **FinTech, Business Intelligence, and Predictive Analytics**
-- 🌱 Currently learning **Advanced Machine Learning, Feature Engineering, and Cloud Deployment**
+- 🔍 Data Analyst focused on **Business Intelligence & Machine Learning**
+- 💼 Open to roles: **Data Analyst | BI Analyst | SQL Analyst**
+- 📊 Passionate about **FinTech, Risk Analytics & Data Storytelling**
+- 🌱 Currently learning **Advanced ML, Feature Engineering & Deployment**
 - 📍 Based in Pakistan
 
 ---
@@ -27,72 +27,65 @@
 ## 🌟 Featured Projects
 
 ### 🏦 Credit Risk Prediction System
-Built ML models on **307K+ banking applications** to predict loan default risk and support financial decision-making.
+- Built ML model on **307K+ banking records**
+- Predicts loan default risk for financial decision-making  
+- End-to-end pipeline: EDA → Feature Engineering → Modeling  
 
-**Tech Stack:** `Python` `Scikit-Learn` `EDA` `Feature Engineering`
+**Tech:** Python • Scikit-learn • XGBoost
 
 ---
 
 ### 📉 Student Churn Prediction
-Developed a churn prediction model achieving **91% accuracy**, helping reduce churn risk by **31.8%** across **8,558 learners**.
+- Achieved **91% accuracy**
+- Reduced churn risk by **31.8% (8,558 learners)**  
+- Identified key engagement patterns
 
-**Tech Stack:** `Python` `Gradient Boosting` `Pandas` `Machine Learning`
+**Tech:** Python • Pandas • Gradient Boosting
 
 ---
 
 ### 📊 Engagement Analytics Dashboard
-Integrated **5 datasets** supporting analytics for **52K+ learners** across **146 countries**, reducing manual reporting by **90%**.
+- Unified **5 datasets (52K+ users, 146 countries)**
+- Reduced reporting time by **90%**
+- Automated KPI tracking system
 
-**Tech Stack:** `SQL` `PostgreSQL` `Looker Studio` `ETL`
+**Tech:** SQL • PostgreSQL • Looker Studio
 
 ---
 
 ### 💰 Promotion Effectiveness Analysis
-Identified a **+122.6M revenue opportunity** through sales and promotional performance analysis.
+- Identified **+122.6M revenue opportunity**
+- Analyzed campaign performance & customer behavior
 
-**Tech Stack:** `SQL` `Power BI` `Business Analytics`
+**Tech:** SQL • Power BI • Business Analytics
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-### Data Analysis & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-### Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
-
-### Tools
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+**Languages:** Python • SQL  
+**Databases:** PostgreSQL • MySQL  
+**BI Tools:** Power BI • Tableau • Looker Studio  
+**Libraries:** Pandas • NumPy • Scikit-learn  
+**Tools:** Excel • Git • Jupyter Notebook  
 
 ---
 
-## 📈 Business Impact
+## 📈 Impact Summary
 
-- ✅ Reduced reporting effort by **90%** through dashboard automation
-- ✅ Built ML models with **91% prediction accuracy**
-- ✅ Analyzed engagement data across **146 countries**
-- ✅ Identified **+122.6M revenue opportunity**
-- ✅ Worked with datasets containing **307K+ records**
+- 📉 90% faster reporting via dashboards  
+- 🤖 91% ML model accuracy achieved  
+- 🌍 146 countries dataset analysis  
+- 💰 +122.6M revenue insights identified  
+- 📊 307K+ records processed  
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 Meta Data Analyst Professional Certificate
-- 🎓 AnalytixCamp SQL for Data Analytics
-- 🎓 Excelerate Internship Programs
+- Meta Data Analyst Professional Certificate  
+- SQL for Data Analytics (AnalytixCamp)  
+- Excelerate Data Analyst Internship  
 
 ---
 
@@ -106,23 +99,14 @@ Identified a **+122.6M revenue opportunity** through sales and promotional perfo
 
 </div>
 
-## 📫 Let's Connect
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumayamateen6@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 “Data tells stories. I help businesses listen.”
-
-</div>
-
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s
