@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Sumaya Mateen
 
-### 📊 Data Analyst | SQL • Power BI • Python • Predictive Analytics
+### 📊 Data Analyst | SQL • Power BI • Python • Data Visualization
 
-🚀 Turning raw data into business insights, dashboards, and predictive models.
+🚀 I transform raw data into clear insights, dashboards, and business reports that support decision-making.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
@@ -16,68 +16,90 @@
 
 ## 🚀 About Me
 
-- 🔍 Data Analyst focused on **Business Intelligence & Machine Learning**
-- 💼 Open to roles: **Data Analyst | BI Analyst | SQL Analyst**
-- 📊 Passionate about **FinTech, Risk Analytics & Data Storytelling**
-- 🌱 Currently learning **Advanced ML, Feature Engineering & Deployment**
+I am a Data Analyst focused on solving business problems using **data analysis, SQL, and visualization tools**.
+
+- 🔍 Skilled in **SQL, Python, Power BI, Excel**
+- 📊 Build dashboards, KPI reports, and business insights
+- 📁 Clean, transform, and analyze large datasets
+- 💼 Interested in **Data Analyst, BI Analyst, SQL Analyst roles**
 - 📍 Based in Pakistan
+
+---
+
+## 🧠 What I Do
+
+- Convert raw data into **clear business insights**
+- Build **interactive dashboards** for decision-making
+- Write SQL queries for **data extraction and analysis**
+- Clean and transform messy datasets into usable formats
+- Create reports that help businesses track performance
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🏦 Credit Risk Prediction System
-- Built ML model on **307K+ banking records**
-- Predicts loan default risk for financial decision-making  
-- End-to-end pipeline: EDA → Feature Engineering → Modeling  
+### 🏦 Credit Risk Analysis (SQL-Based)
+Analyzed **300K+ banking records** to understand customer risk patterns and loan behavior.
 
-**Tech:** Python • Scikit-learn • XGBoost  
+- Data cleaning and transformation using SQL
+- Identified high-risk customer segments
+- Built structured analysis for business decision-making  
+
+**Tech:** SQL • PostgreSQL • Excel  
 
 ---
 
-### 📉 Student Churn Prediction
-- Achieved **91% accuracy**
-- Reduced churn risk by **31.8% (8,558 learners)**  
-- Identified key engagement patterns  
+### 📉 Customer Churn Analysis
+Analyzed user behavior to identify why customers stop using services.
 
-**Tech:** Python • Pandas • Gradient Boosting  
+- Found key engagement drop-off points
+- Improved retention insights using data analysis
+- Created structured reporting for business teams  
+
+**Tech:** Python • Pandas • SQL  
 
 ---
 
 ### 📊 Engagement Analytics Dashboard
-- Unified **5 datasets (52K+ users, 146 countries)**
-- Reduced reporting time by **90%**
-- Automated KPI tracking system  
+Built a centralized dashboard combining multiple datasets.
 
-**Tech:** SQL • PostgreSQL • Looker Studio  
+- Integrated **5 datasets (52K+ users, 146 countries)**
+- Reduced manual reporting by **90%**
+- Built KPI tracking dashboards  
+
+**Tech:** SQL • Power BI • Looker Studio  
 
 ---
 
-### 💰 Promotion Effectiveness Analysis
-- Identified **+122.6M revenue opportunity**
-- Analyzed campaign performance & customer behavior  
+### 💰 Sales & Promotion Analysis
+Analyzed sales performance and marketing campaigns.
 
-**Tech:** SQL • Power BI • Business Analytics  
+- Identified revenue patterns and trends
+- Found **+122.6M revenue opportunity**
+- Provided insights for marketing optimization  
+
+**Tech:** SQL • Power BI • Excel  
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python • SQL  
+**Languages:** SQL • Python (Basic for analysis)  
 **Databases:** PostgreSQL • MySQL  
 **BI Tools:** Power BI • Tableau • Looker Studio  
-**Libraries:** Pandas • NumPy • Scikit-learn  
-**Tools:** Excel • Git • Jupyter Notebook  
+**Data Tools:** Excel • Google Sheets  
+**Libraries:** Pandas • NumPy (Basic usage)  
+**Other:** Git • Jupyter Notebook  
 
 ---
 
 ## 📈 Impact Summary
 
-- 📉 90% faster reporting via dashboards  
-- 🤖 91% ML model accuracy achieved  
-- 🌍 146 countries dataset analysis  
-- 💰 +122.6B revenue insights identified *(optional correction: check if M or B)*  
-- 📊 307K+ records processed  
+- 📉 Reduced reporting time by **90% through dashboards**
+- 📊 Analyzed datasets with **300K+ records**
+- 🌍 Worked with global datasets across **146 countries**
+- 💰 Identified **+122.6M revenue opportunity**
+- 📁 Built multiple end-to-end data analysis projects  
 
 ---
 
@@ -89,25 +111,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumayamateen&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumayamateen&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+- Strengthening **advanced SQL (joins, window functions)**
+- Improving **Power BI dashboard design**
+- Building **real-world Pakistan FinTech projects**
+- Learning **data pipeline and automation concepts**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-<div align="center">
+Actively looking for **Data Analyst / BI Analyst opportunities**.
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
+📊 Portfolio: https://github.com/sumayamateen/Analytics-Portfolio  
+🔗 LinkedIn: https://www.linkedin.com/in/sumaya-mateen  
+📧 Email: mailto:sumayamateen6@gmail.com  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumayamateen6@gmail.com)
-</div>
+## 💡 Final Thought
+
+> “Data is not just numbers — it is a story that drives decisions.”
