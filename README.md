@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Sumaya Mateen
+# Sumaya Mateen
 
-### 📊 Data Analyst | SQL • Power BI • Python • Data Visualization
+### Data Analyst | SQL · Power BI · Excel · Python
 
-🚀 I transform raw data into clear insights, dashboards, and business reports that support decision-making.
+I turn raw data into clear insights, dashboards and business recommendations that support decisions.
+
+📍 Pakistan · 💼 Open to Data Analyst, BI Analyst and SQL Analyst roles
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
@@ -14,126 +16,88 @@
 
 ---
 
-## 🚀 About Me
+## About me
 
-I am a Data Analyst focused on solving business problems using **data analysis, SQL, and visualization tools**.
+I am a data analyst who solves business problems with SQL, Power BI and Excel. I clean messy datasets, validate whether reported numbers can be trusted, and present findings with clear recommendations.
 
-- 🔍 Skilled in **SQL, Python, Power BI, Excel**
-- 📊 Build dashboards, KPI reports, and business insights
-- 📁 Clean, transform, and analyze large datasets
-- 💼 Interested in **Data Analyst, BI Analyst, SQL Analyst roles**
-- 📍 Based in Pakistan
-
----
-
-## 🧠 What I Do
-
-- Convert raw data into **clear business insights**
-- Build **interactive dashboards** for decision-making
-- Write SQL queries for **data extraction and analysis**
-- Clean and transform messy datasets into usable formats
-- Create reports that help businesses track performance
+- Write SQL for extraction, validation and analysis (joins, CTEs, window functions)
+- Build interactive dashboards and KPI reports
+- Check data quality before drawing conclusions, and state assumptions and limitations
+- Currently building real-world Pakistan FinTech projects
 
 ---
 
-## 🌟 Featured Projects
+## ⭐ Featured project
 
-### 🏦 Credit Risk Analysis (SQL-Based)
-Analyzed **300K+ banking records** to understand customer risk patterns and loan behavior.
+### FlowRoute Logistics: Operational Data Analysis
+**SQL · PostgreSQL · Power BI · Excel** | Business simulation (DataSimHQ), 1.8M shipments, 8 hubs
 
-- Data cleaning and transformation using SQL
-- Identified high-risk customer segments
-- Built structured analysis for business decision-making  
+A delivery company could not tell whether rising complaints came from a bad hub, delivery failures, financial leakage or inaccurate reports. I tested each explanation and corrected four misleading system figures.
 
-**Tech:** SQL • PostgreSQL • Excel  
+- Every complaint (64,737) sits on a failed or returned shipment. No hub, customer type or driver was an outlier, so the problem is systemic.
+- Corrected the failure rate (9.99% to 9.80%), recorded COD (₦54.61bn to ₦54.30bn) and average delivery time (61.29 to 61.90 hrs), with the reason for each documented.
+- Estimated about ₦152M a year in weight-related revenue leakage, and flagged which figures are assumptions.
 
----
-
-### 📉 Customer Churn Analysis
-Analyzed user behavior to identify why customers stop using services.
-
-- Found key engagement drop-off points
-- Improved retention insights using data analysis
-- Created structured reporting for business teams  
-
-**Tech:** Python • Pandas • SQL  
+[**View the project →**](https://github.com/sumayamateen/flowroute-logistics-analysis)
 
 ---
 
-### 📊 Engagement Analytics Dashboard
-Built a centralized dashboard combining multiple datasets.
+## More projects
 
-- Integrated **5 datasets (52K+ users, 146 countries)**
-- Reduced manual reporting by **90%**
-- Built KPI tracking dashboards  
+| Project | What I did | Tech |
+|---|---|---|
+| **Credit Risk Analysis** | Analysed 300K+ banking records; cleaned and transformed data, identified high-risk customer segments | SQL · PostgreSQL · Excel |
+| **Customer Churn Analysis** | Found engagement drop-off points and built retention insights and structured reporting | Python · Pandas · SQL |
+| **Engagement Analytics Dashboard** | Combined 5 datasets (52K+ users, 146 countries) into a KPI dashboard; reduced manual reporting by 90% | SQL · Power BI · Looker Studio |
+| **Sales & Promotion Analysis** | Analysed revenue patterns and campaigns; identified a +122.6M revenue opportunity | SQL · Power BI · Excel |
 
-**Tech:** SQL • Power BI • Looker Studio  
-
----
-
-### 💰 Sales & Promotion Analysis
-Analyzed sales performance and marketing campaigns.
-
-- Identified revenue patterns and trends
-- Found **+122.6M revenue opportunity**
-- Provided insights for marketing optimization  
-
-**Tech:** SQL • Power BI • Excel  
+More work in my [Analytics Portfolio](https://github.com/sumayamateen/Analytics-Portfolio).
 
 ---
 
-## 🛠️ Technical Skills
+## Technical skills
 
-**Languages:** SQL • Python (Basic for analysis)  
-**Databases:** PostgreSQL • MySQL  
-**BI Tools:** Power BI • Tableau • Looker Studio  
-**Data Tools:** Excel • Google Sheets  
-**Libraries:** Pandas • NumPy (Basic usage)  
-**Other:** Git • Jupyter Notebook  
-
----
-
-## 📈 Impact Summary
-
-- 📉 Reduced reporting time by **90% through dashboards**
-- 📊 Analyzed datasets with **300K+ records**
-- 🌍 Worked with global datasets across **146 countries**
-- 💰 Identified **+122.6M revenue opportunity**
-- 📁 Built multiple end-to-end data analysis projects  
+| Area | Tools |
+|---|---|
+| **Languages** | SQL (advanced focus) · Python (basic, for analysis) |
+| **Databases** | PostgreSQL · MySQL |
+| **BI and visualisation** | Power BI · Tableau · Looker Studio |
+| **Spreadsheets** | Excel · Google Sheets |
+| **Libraries** | Pandas · NumPy |
+| **Other** | Git · Jupyter Notebook |
 
 ---
 
-## 📜 Certifications
+## Highlights
 
-- Meta Data Analyst Professional Certificate  
-- SQL for Data Analytics (AnalytixCamp)  
-- Excelerate Data Analyst Internship  
-
----
-
-## 🎯 Current Focus
-
-- Strengthening **advanced SQL (joins, window functions)**
-- Improving **Power BI dashboard design**
-- Building **real-world Pakistan FinTech projects**
-- Learning **data pipeline and automation concepts**
+- 90% less manual reporting through dashboards
+- 300K+ records analysed in a single project
+- Global data across 146 countries
+- Several end-to-end analysis projects, from raw data to recommendations
 
 ---
 
-## 📫 Connect With Me
+## Certifications
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayamateen/Analytics-Portfolio)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mateen)
-
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumayamateen6@gmail.com)
-
-</div>
+- Meta Data Analyst Professional Certificate
+- SQL for Data Analytics (AnalytixCamp)
+- Excelerate Data Analyst Internship
 
 ---
 
-## 💡 Final Thought
+## Currently focusing on
 
-> “Data is not just numbers — it is a story that drives decisions.”
+- Advanced SQL: joins and window functions
+- Power BI dashboard design
+- Real-world Pakistan FinTech projects
+- Data pipelines and automation concepts
+
+---
+
+## Let's connect
+
+I am open to data analyst opportunities and happy to discuss my projects.
+
+[LinkedIn](https://www.linkedin.com/in/sumaya-mateen) · [Email](mailto:sumayamateen6@gmail.com) · [Portfolio](https://github.com/sumayamateen/Analytics-Portfolio)
+
+> "Data is not just numbers. It is a story that drives decisions."
