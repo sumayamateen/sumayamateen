@@ -38,7 +38,7 @@ A delivery company could not tell whether rising complaints came from a bad hub,
 - Corrected the failure rate (9.99% to 9.80%), recorded COD (₦54.61bn to ₦54.30bn) and average delivery time (61.29 to 61.90 hrs), with the reason for each documented.
 - Estimated about ₦152M a year in weight-related revenue leakage, and flagged which figures are assumptions.
 
-[**View the project →**](https://github.com/sumayamateen/flowroute-logistics-analysis)
+[**View the project →**](https://github.com/sumayamateen/flowroute-logistics-analytics)
 
 ---
 
