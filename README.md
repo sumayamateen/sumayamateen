@@ -29,6 +29,20 @@ I am a data analyst who solves business problems with SQL, Power BI and Excel. I
 
 ## ⭐ Featured project
 
+### Nexus Financial Services: Banking Risk, Fraud & Churn Analysis
+**SQL · PostgreSQL · Power BI · Excel** | Business simulation (DataSimHQ), commercial bank, 40+ branches
+
+Leadership at a commercial bank saw churn, fraud and lending delays hit the board pack at once, with no clear cause. I investigated each issue separately, then connected the evidence across them to find what was driving the decline.
+
+- Churn, fraud cases, fraud losses and wire-fraud flag rates all stepped up in July 2024 together, which points to one triggering event rather than four separate trends.
+- Churn was a people problem, not a regional one: regions were flat at 9-10%, but some relationship managers ran up to 3x the network average.
+- Built a 7-section Excel Board Reporting Pack covering loan portfolio risk (8.37% default rate), liquidity stress (134.5% loan-to-deposit ratio against an 80% threshold), and pessimistic, base-case and optimistic 2025 scenarios.
+- Reported a surprising result (fraud-affected 2024 customers churned less, 0.7% vs 8.6%) with its caveats instead of forcing it to fit the story.
+
+[**View the SQL project →**](https://github.com/sumayamateen/Fraud-Transaction-Churn-Monitoring-Analytics) · 
+[**View the Excel Board Pack →**](https://github.com/sumayamateen/Nexus-Financial-Services-Analytics/tree/main/Excel)
+
+
 ### FlowRoute Logistics: Operational Data Analysis
 **SQL · PostgreSQL · Power BI · Excel** | Business simulation (DataSimHQ), 1.8M shipments, 8 hubs
 
