@@ -29,6 +29,21 @@ I am a data analyst who solves business problems with SQL, Power BI and Excel. I
 
 ## ⭐ Featured project
 
+### Kilele Mobile: Board-Level Strategy & Data Audit
+**SQL · PostgreSQL · Power BI · Excel** | Business simulation (DataSimHQ), Kenyan telecom operator (~11M subscribers)
+
+The Chief Commercial Officer needed to present the true state of the business to the Board of Directors. I audited the metrics and built a 6-page interactive dashboard, uncovering five hidden business crises.
+
+- **The Ghost Subscribers:** Discovered 7.6% of "active" users were artificially inflated by free promo credits. Corrected the board base from 33,235 down to the true 30,709.
+- **The Cannibalization Trap:** Proved that new night data bundles were eating daytime revenue, causing a 33% drop in adopter spend (from 1,048 KES to 700 KES).
+- **The Liquidity Crisis:** Traced 3.5M KES in failed agent withdrawals to a structural system cap (30K float limit vs 95K nationally), exonerating the agent network.
+- **The Network Illusion:** Exposed how the regional average hid a localized crisis where 100% of Kisumu's 24 live towers ran at 99.5% capacity, driving a 30% silent churn rate.
+- **The Campaign Noise:** Applied Standard Error statistics to prove an "8.5% successful" win-back campaign had a true lift of 0.01% (pure noise).
+
+[**View the Live Power BI Dashboard →**](https://app.powerbi.com/groups/me/reports/6fa31d87-5fcb-48a6-bcc3-efdcdb4955cf/3f08dea64ca1140c2a26?experience=power-bi) · 
+[**View the Project Repository →**](https://github.com/sumayamateen/Kilele-Mobile-Analytics)
+
+
 ### Nexus Financial Services: Banking Risk, Fraud & Churn Analysis
 **SQL · PostgreSQL · Power BI · Excel** | Business simulation (DataSimHQ), commercial bank, 40+ branches
 
